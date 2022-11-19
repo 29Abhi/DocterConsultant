@@ -1,0 +1,62 @@
+.about_section{
+ width: 80%;
+ height: 250px;
+ margin: auto;
+ margin-top: 50px;
+background-color: #14141f;
+display: flex;
+border-radius: 30px;
+}
+.about_side{
+        width: 70%;
+        height: 250px;
+        
+        margin-left: 60px;
+}
+
+.book{
+    width: 30%;
+        height: 250px;
+        border-top-right-radius: 30px;
+        border-bottom-right-radius: 30px;
+       background-color: blue;
+}
+
+.head{
+    color: white;
+}
+.para{
+    color: grey;
+}
+.h3{
+    color: blueviolet;
+}
+.calender{
+    color: white;
+    font-size: 70px;
+    margin-left: 39%;
+    margin-top: 9px;
+}
+.day{
+    color: white;
+   margin-left: 90px;
+}
+.time{
+    color: white;
+    margin-left: 80px;
+}
+
+.book_appoint{
+  width: 90px;
+  height: 50px;
+  color: blue;
+  background-color: white;
+  border-radius: 10px;
+  font-size: 16px;
+  margin-left: 120px;
+  border: none;
+}
+.book_appoint:hover{
+    background-color: blue;
+    color: white;
+}

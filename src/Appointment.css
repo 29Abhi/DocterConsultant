@@ -1,0 +1,85 @@
+.appoint_div{
+    width: 90%;
+    height: 500px;
+    /* border: 1px solid white; */
+    margin: auto;
+    position: relative;
+    
+}
+.appoint_img{
+    width: 35%;
+    height: 550px;
+    margin-left: 150px;
+    z-index: 1;
+    border-radius: 50px;
+
+}
+.appoint_name{
+    color: white;
+    position: absolute;
+    top: 70px;
+    left: 800px;
+}
+
+.appoint_btn{
+    background-color: rgb(101, 16, 180);
+    color: white;
+    padding: 15px 24px;
+    font-size: larger;
+    border-radius: 13px;
+    position: absolute;
+    top: 150px;
+    left: 810px;
+    border: none;
+}
+.appoint_call{
+    background-color: white;
+    padding: 10px 130px;
+    border: none;
+    border-radius: 12px;
+    color: blue;
+    justify-content: center;
+    font-size: larger;
+    position: absolute;
+    left: 570px;
+    top: 290px;
+    z-index: -1;
+}
+.appoint_email{
+    background-color: white;
+    padding: 10px 130px;
+    border: none;
+    border-radius: 12px;
+    color: blue;
+    justify-content: center;
+    font-size: larger;
+    position: absolute;
+    left: 570px;
+    top: 370px;
+    z-index: -1;
+}
+
+
+.time_div{
+    width: 40%;
+    height: 300px;
+    border: 1px solid white;
+    margin: auto;
+    justify-content: center;
+}
+
+.book_apoint_btn{
+ width: 240px;
+ height: 60px;
+ font-size: 25px;
+ margin-top: 50px;
+ margin-left: 650px;
+ border-radius: 18px;
+ background-color: blue;
+ color: white;
+
+}
+.book_apoint_btn:hover{
+    background-color: white;
+    color: black;
+}

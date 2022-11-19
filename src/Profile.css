@@ -1,0 +1,140 @@
+.back-arrow{
+    color: white;
+    font-size: 40px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.profile-head{
+   color: white;
+ margin-top: -40px;
+   margin-left: 45%;
+}
+
+.profile-image-docter{
+width: 400px;
+height: 500px;
+  opacity: .5;
+  border-radius: 50px;
+}
+.demo{
+  width: 400px;
+  height: 450px;
+ margin: auto;
+
+}
+
+.docter-name{
+ position: relative;
+margin: auto;
+width: 40%;
+height: 150px;
+background-color: #14141f;
+margin-top: 50px;
+display: flex;
+border-radius: 20px;
+
+}
+
+.Docter-name-1{
+color: white;
+position: absolute;
+top: 8px;
+left: 40px;
+}
+
+.docter-button{
+  background-color: #1D1D2A;
+  width: 200px;
+  height: 50px;
+  color: white;
+  border-radius: 1px;
+  position: absolute;
+  top: 25px;
+  left: 300px;
+  border-radius: 7px;
+  border: 0px;
+  font-size: 20px;
+}
+
+
+.rating-button{
+width: 100%;
+height: 50px;
+background-color: blue;
+position: absolute;
+top: 99px;
+border: 0px;
+border-bottom-left-radius: 20px;
+ border-bottom-right-radius: 20px;
+ 
+
+}
+.rating-star{
+  color: white;
+  position: absolute;
+  top: 15px;
+  left: 120px;
+  font-size: 20px;
+}
+
+.add-review{
+  color: white;
+  font-size: 20px;
+  position: absolute;
+  left: 300px;
+  top: 2px;
+}
+
+.piechart{
+  width: 30%;
+  height: 300px;
+  /* border: 1px solid white; */
+  margin-left: 100px;
+}
+.piebox{
+  width: 80%;
+  height: 330px;
+  border-radius: 30px;
+  margin: auto;
+  background-color: #14141f;
+  margin-top: 50px;
+  display: flex;
+
+}
+
+.describeinfo{
+  width: 30%;
+  height: 300px;
+  margin-left: 100px;
+  margin-top: 30px;
+}
+
+.hea{
+  color: red;
+}
+.rat{
+  color: yellow;
+}
+.exp{
+  color: blue;
+}
+.hea_line{
+height: 4px;
+background-color: red;
+}
+.rat_line{
+  height: 4px;
+background-color: yellow;
+}
+.exp_line{
+  height: 4px;
+  background-color: blue;
+}
+
+.profile_detail{
+  width: 95%;
+  height: 1100px;
+  /* border: 1px solid white; */
+  margin: auto;
+}
+
